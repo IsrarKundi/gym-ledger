@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "357786257912",
+    "project_id": "gym-ledger-472d2",
+    "storage_bucket": "gym-ledger-472d2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357786257912:android:f8e5df08eaab7556482e0d",
+        "android_client_info": {
+          "package_name": "com.israr.gymledger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2WwXdxzt_EaL437LENrTSCEfaRCBKXoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
